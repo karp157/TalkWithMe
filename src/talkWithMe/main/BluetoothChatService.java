@@ -1,4 +1,4 @@
-package main;
+package talkWithMe.main;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,6 +1,4 @@
-package main;
-
-import com.example.social_master.R;
+package talkWithMe.main;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
