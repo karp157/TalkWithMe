@@ -1,4 +1,4 @@
-package com.example.social_master;
+package main;
 
 import java.io.IOException;
 import java.io.InputStream;

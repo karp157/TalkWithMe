@@ -1,6 +1,8 @@
-package com.example.social_master;
+package main;
 
 import java.util.Set;
+
+import com.example.social_master.R;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
